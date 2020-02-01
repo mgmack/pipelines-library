@@ -9,9 +9,7 @@ Tool Purpose Vendor Visual Studio 2015 .NET Development Microsoft ReSharper .NET
 
 Environments
 
-The E&C Fit project supports several different environments including Dev, QA, Stage, and Production.
-
-A complete list of all environments with links is maintained here.
+The project supports several different environments including Dev, QA, Stage, and Production.
 
 Developing with Git
 
