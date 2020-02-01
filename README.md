@@ -1,5 +1,5 @@
 # pipelines-library
-This library contains emplates and code for reuse across Azure Devops projects.
+This library contains templates and code for reuse across Azure Devops projects.
 
 Library includes .yml files, JSON, Angular 8 and .NETCore code, JS/NodeJS, Powershell and Bash scripts
 
