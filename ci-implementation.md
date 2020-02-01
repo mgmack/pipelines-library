@@ -6,11 +6,13 @@ Manage code quality and security policies
 • manage automated test quality
 • manage test suites and categories
 • monitor quality of tests
-• integrate security analysis tools (e.g., SonarQube, White Source Bolt, Open Web
-Application Security Project)
+• integrate security analysis tools (e.g., SonarQube, White Source Bolt, Open Web Application Security Project)
+
 Implement a container build strategy
 • create deployable images (Docker)
+
 • analyze and integrate Docker multi-stage builds
+
 Implement a build strategy
 • design build triggers, tools, integrations, and workflow
 • implement a hybrid build process
