@@ -1,4 +1,7 @@
 # pipelines-library
+This library contains reuseable templates and code for reuse across Azure Devops project.
+Library ncludes .yml files, JSON, Angular 8 and .NETCore code, JS/NodeJS, Powershell and Bash scripts
+
 Why should We use CI and CD and Azure Pipelines?
 Implementing CI and CD pipelines helps to ensure consistent and quality code that's readily available to users.
 Azure Pipelines is a quick, easy, and safe way to automate building your projects and making them available to users.
