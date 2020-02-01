@@ -1,4 +1,5 @@
-Implement application infrastructure (15-20%)
+Implementing application infrastructure 
+
 Design an infrastructure and configuration management strategy
 • analyze existing and future hosting infrastructure 
 • analyze existing Infrastructure as Code (IaC) technologies
