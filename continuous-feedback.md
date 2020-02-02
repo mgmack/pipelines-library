@@ -1,6 +1,6 @@
 Implement continuous feedback
 
-Recommend and design system feedback mechanisms
+Recommend and design system feedback mechanism
 • design practices to measure end-user satisfaction (e.g., Send a Smile, app analytics)
 • design processes to capture and analyze user feedback from external sources (e.g., Twitter, Reddit, Help Desk)
 • design routing for client application crash report data
